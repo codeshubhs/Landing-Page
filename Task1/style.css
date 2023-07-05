@@ -49,7 +49,7 @@ img{
     justify-content: stretch;
 }
 
-.head-top nav{
+.head-top  nav {
     color:#fff;
     display:flex;
     justify-content: space-between;
@@ -57,9 +57,10 @@ img{
     width:90vw;
     margin:0 auto;
     padding:18px 0;
-    text-decoration: underline;
+    text-decoration: none;
     
 }
+
 .head-top nav:hover{
     color:rgb(20, 19, 19);
 }
